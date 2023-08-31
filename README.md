@@ -18,7 +18,7 @@ A super concise theme for Hugo
 ## Installation
 
 ```bash
-$ git clone https://github.com/olOwOlo/hugo-theme-even themes/even
+$ git clone https://github.com/majunze2001/hugo-theme-even themes/even
 ```
 
 **Important:** Take a look inside the [`exampleSite`](https://github.com/olOwOlo/hugo-theme-even/tree/master/exampleSite) folder of this theme. You'll find a file called [`config.toml`](https://github.com/olOwOlo/hugo-theme-even/blob/master/exampleSite/config.toml). **To use it, copy the [`config.toml`](https://github.com/olOwOlo/hugo-theme-even/blob/master/exampleSite/config.toml) in the root folder of your Hugo site.** Feel free to change it.
@@ -98,3 +98,4 @@ Released under the [MIT](https://github.com/olOwOlo/hugo-theme-even/blob/master/
 - [ananke](https://github.com/budparr/gohugo-theme-ananke)
 - [hexo-theme-even](https://github.com/ahonn/hexo-theme-even)
 - [hugo-nuo](https://github.com/laozhu/hugo-nuo)
+
